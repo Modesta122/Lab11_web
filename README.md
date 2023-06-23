@@ -55,11 +55,7 @@ public function add()
 
 <p>Ujicoba file upload dengan mengakses menu tambah artikel.</p>
 
-![Upload Gambar](img/Upload_Gambar.png)
 
-![Test](img/test.png)
-
-![Hasil](img/output.png)
 
 ## Pertanyaan dan Tugas
 <p>Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.</p>
